@@ -12,4 +12,4 @@ usethis::use_readme_rmd()
 
 #I am making changes :)
 
-#I am trying to create a conflict here too!
+# I am creating a conflict!
