@@ -11,3 +11,5 @@ usethis::use_readme_rmd()
 # and now I am working on anew branch
 
 #I am making changes :)
+
+#I am trying to create a conflict here too!
